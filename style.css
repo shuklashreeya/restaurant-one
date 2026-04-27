@@ -236,7 +236,7 @@ section {
     display: flex;
     align-items: center;
     position: relative;
-    background-image: url('file:///C:/Users/hp/.gemini/antigravity/brain/ececde75-21e7-409d-85a2-61fa873ca1c9/kutumbh_hero_1777308539436.png');
+    background-image: url('assets/hero.png');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -356,7 +356,7 @@ section {
 .image-inner {
     position: relative;
     z-index: 1;
-    background-image: url('file:///C:/Users/hp/.gemini/antigravity/brain/ececde75-21e7-409d-85a2-61fa873ca1c9/kutumbh_hero_1777308539436.png');
+    background-image: url('assets/hero.png');
     background-size: cover;
     background-position: center;
     height: 400px;
